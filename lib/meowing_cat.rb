@@ -5,7 +5,4 @@ class Cat
     @meow
   end
   
-  def
-    
-  end
 end
